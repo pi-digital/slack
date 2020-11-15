@@ -1,6 +1,6 @@
 <?php
 
-$timezone = 'Australia/Brisbane';
+$timezone = 'America/Sao_Paulo';
 
 $slackApiToken = 'TOKEN';
 $slackChannelName = 'CHANNEL';
