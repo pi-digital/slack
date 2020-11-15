@@ -2,8 +2,8 @@
 
 $timezone = 'America/Sao_Paulo';
 
-$slackApiToken = 'TOKEN';
-$slackChannelName = 'CHANNEL';
+$slackApiToken = 'xoxb-1514572271025-1508949776052-DNnS0tocaFbq8XdNlDnbRByh';
+$slackChannelName = 'agenda-de-autoridades';
 
 $slackHistoryCount = '25';
 
